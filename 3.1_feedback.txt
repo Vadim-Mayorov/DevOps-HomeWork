@@ -1,0 +1,3 @@
+It's better to add resource deleting step.
+
+Good job.
